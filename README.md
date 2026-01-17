@@ -1,13 +1,25 @@
-# One Page Website Template
+# one-page-website-template
 
-# About
+__One Page Website Template__
 
-Template of a simple one page responsive website with a contact form and full-screen landing page for promoting a product, or business. It that does not use any external libraries.
+This repository contains the code built step by step in my tutorial at [ubuverse.com/one-page-website-template](https://ubuverse.com/one-page-website-template/).
 
-Code part of my tutorial at https://ubuverse.com/one-page-website-template/
+## About
 
-# Preview
+A simple, responsive one-page website template featuring:
+
+- Full-screen landing section
+- Contact form
+- Sections for showcasing a product or business
+
+This template does not rely on any external libraries.
+
+## Preview
 
 ![](preview_1.png)
 
 ![](preview_2.png)
+
+## License
+
+MIT
